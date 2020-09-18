@@ -1,5 +1,18 @@
-# US Consumer Finance Complaints
-**Description**
+# weather in Szeged 2006-2016
+**Content**
+The CSV file includes a hourly/daily summary for Szeged, Hungary area, between 2006 and 2016.
 
-Each week the CFPB sends thousands of consumers’ complaints about financial products and services to companies for response. Those complaints are published here after the company responds or after 15 days, whichever comes first. By adding their voice, consumers help improve the financial marketplace.
-[Here is a link to the dataset](https://www.kaggle.com/cfpb/us-consumer-finance-complaints)
+Data available in the hourly response:
+
+time
+summary
+precipType
+temperature
+apparentTemperature
+humidity
+windSpeed
+windBearing
+visibility
+loudCover
+pressure
+[Here is a link to the dataset](https://www.kaggle.com/budincsevity/szeged-weather)
