@@ -1,4 +1,4 @@
-# weather in Szeged 2006-2016
+# Weather in Szeged 2006-2016
 **Content**
 The CSV file includes a hourly/daily summary for Szeged, Hungary area, between 2006 and 2016.
 
